@@ -28,7 +28,7 @@ Engaging and customer-focused professional with a proven record of delivering ex
 
 **Assistant Store Manager** | Starbucks | Kingston, ON | Jul 2018 - Jul 2019
 
-**Supervisor |** Starbucks | Kingston, ON | Sep 2016 - Jun 2018
+**Supervisor** | Starbucks | Kingston, ON | Sep 2016 - Jun 2018
 
 **EDUCATION**
 
@@ -38,15 +38,19 @@ Engaging and customer-focused professional with a proven record of delivering ex
 
 **CORE COMPETENCIES**
 
-**Leadership & Team Development** – Coaching | Mentoring | Building high-performing teams**Culture Building** – Feedback | Accountability | Continuous growth**Learning & Development** – Onboarding design & delivery | Training | Skill-building programs  
+**Leadership & Team Development** – Coaching | Mentoring | Building high-performing teams
+**Culture Building** – Feedback | Accountability | Continuous growth
+**Learning & Development** – Onboarding design & delivery | Training | Skill-building programs  
 **Relationship Building** – Stakeholder trust | User engagement | Cross-functional partnerships  
 **Change & Adaptability** – Dynamic environments | Process improvements | Change enablement  
 **Communication & Collaboration** – Empathetic communication | Clear documentation | Cross-team coordination
 
 **TECHNICAL SKILLS**
 
-**CRM Platforms** – Salesforce | Better Impact | Bloomerang | Data management & workflow configuration**Integration & Cloud Tools** – API integrations | WordPress & website/CRM integrations | Payment/donation systems | SaaS administration & management**  
-Productivity & Communication** – Google Workspace | MS Office Suite | Slack | Scheduling platforms**Data & Success Methods** – Data analysis & reporting | Onboarding program design & delivery | User journey mapping
+**CRM Platforms** – Salesforce | Better Impact | Bloomerang | Data management & workflow configuration
+**Integration & Cloud Tools** – API integrations | WordPress & website/CRM integrations | Payment/donation systems | SaaS administration & management
+**Productivity & Communication** – Google Workspace | MS Office Suite | Slack | Scheduling platforms
+**Data & Success Methods** – Data analysis & reporting | Onboarding program design & delivery | User journey mapping
 
 **EXPANDED CAREER HISTORY**
 
@@ -66,7 +70,7 @@ Productivity & Communication** – Google Workspace | MS Office Suite | Slack | 
 - Ensured labour inclusion in community investment decisions.
 - Orchestrated fundraising and volunteer engagement strategies within unionized workplaces.
 
-**Owner / Operator |** Rosa’s Café | Bath, ON | Jun 2013 - Aug 2016
+**Owner / Operator** | Rosa’s Café | Bath, ON | Jun 2013 - Aug 2016
 
 - Launched and managed daily operations of a successful independent café, overseeing service, staffing, and business strategy.
 - Built strong vendor relationships, negotiated contracts, and managed inventory to maintain cost-effective supply chains.
@@ -74,12 +78,12 @@ Productivity & Communication** – Google Workspace | MS Office Suite | Slack | 
 - Developed customer loyalty through personalized service and community engagement.
 - Drove business growth through local partnerships, word-of-mouth marketing, and exceptional customer experience.
 
-**Research Assistant |** Queen’s University | Kingston, ON | Jun 2011 - May 2013
+**Research Assistant** | Queen’s University | Kingston, ON | Jun 2011 - May 2013
 
-**Research Assistant |** University of Ottawa | Ottawa, ON | Nov 2007 - May 2011
+**Research Assistant** | University of Ottawa | Ottawa, ON | Nov 2007 - May 2011
 
 **Client Solutions Consultant |** Independent | Ottawa, ON | Aug 2003 - Oct 2007
 
-**Instructor |** Information Technology Institute | Vancouver, BC | Feb 1999 – Jun 2000
+**Instructor** | Information Technology Institute | Vancouver, BC | Feb 1999 – Jun 2000
 
-**Analyst, Client Services |** Industry Canada | Ottawa, ON | Jan 1997 – Jan 1999
+**Analyst, Client Services** | Industry Canada | Ottawa, ON | Jan 1997 – Jan 1999

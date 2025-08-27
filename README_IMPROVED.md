@@ -41,6 +41,15 @@ Dynamic leader with 20+ years driving customer success, community engagement, an
 - Managed full talent lifecycle: recruited, trained, and developed 50+ partners with 60% internal promotion rate
 - Resolved 100+ escalated customer issues monthly with 98% satisfaction rate through empathetic communication
 
+### **Customer Success Manager**
+**PureEdge Solutions (acquired by IBM)** | Victoria, BC | Jul 2000 - Dec 2000
+
+- Delivered implementation support and user training for 50+ enterprise clients adopting XML-based digital forms platform
+- Achieved 95% customer satisfaction score through proactive onboarding and continuous support programs
+- Conducted 100+ end-user training sessions ensuring smooth adoption and 90% first-call resolution rate
+- Collaborated with engineering teams to resolve complex client issues, reducing ticket resolution time by 30%
+- Developed customer success playbooks and best practices that increased product adoption by 40%
+
 ### **Field Sales Engineer**
 **PureEdge Solutions (acquired by IBM)** | Remote | Jan 2001 - Aug 2003
 
@@ -101,7 +110,6 @@ Information Technology Institute | Ottawa, ON | 1999
 **Research Assistant** | Queen's University | Kingston, ON | 2011 - 2013  
 **Research Assistant** | University of Ottawa | Ottawa, ON | 2007 - 2011  
 **Client Solutions Consultant** | Independent | Ottawa, ON | 2003 - 2007  
-**Customer Success Manager** | PureEdge Solutions | Victoria, BC | 2000 - 2001  
 **Instructor** | Information Technology Institute | Vancouver, BC | 1999 - 2000  
 **Analyst, Client Services** | Industry Canada | Ottawa, ON | 1997 - 1999
 

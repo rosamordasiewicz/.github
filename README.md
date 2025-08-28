@@ -1,128 +1,86 @@
-# Rosa Mordasiewicz
-**Customer Success & Community Engagement Leader | Technology & Nonprofit Sectors**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/redrosa/)
-📍 Kingston, ON, Canada
-
----
-
-## 💡 Professional Summary
+**PROFESSIONAL SUMMARY**
 
 Dynamic leader with 20+ years driving customer success, community engagement, and operational excellence across technology, nonprofit, and retail sectors. Proven track record transforming teams and processes through empathetic leadership, data-driven decision making, and strategic stakeholder management. Expert at bridging technical and business needs while fostering cultures of continuous improvement and accountability.
 
----
+**HIGHLIGHTED EXPERIENCE**
 
-## 🚀 Professional Experience
+**Field Sales Engineer** | PureEdge Solutions | Remote | Jan 2001 - Aug 2003
 
-### **Community Engagement Manager**
-**Habitat for Humanity Kingston Limestone Region** | Kingston, ON | Mar 2025 - Present
+- Drove $5M+ in enterprise sales through technical demos for Fortune 500 clients
+- Pioneered XML-based digital forms adoption across enterprise accounts, reducing paper processes
+- Delivered technical training to developers, achieving self-sufficiency post-implementation
+- Influenced product roadmap through customer advocacy
 
-- Spearhead community engagement strategies, expanding partnership network by 40% across corporate, education, and government sectors
+**Customer Success Manager** | PureEdge Solutions | Victoria, BC | Jul 2000 - Dec 2000
+
+- Delivered implementation support and user training for clients adopting XML-based digital forms
+- Achieved high customer satisfaction through proactive onboarding and continuous support programs
+- Conducted end-user training sessions ensuring smooth adoption and high first-call resolution rate
+- Collaborated with engineering teams to resolve complex client issues, reducing ticket resolution time
+- Developed customer success playbooks and best practices that increased product adoption
+
+**Store Manager** | Starbucks | Kingston, ON | Jul 2019 - Aug 2024
+
+- Led high-performing team of 35+ partners in $3M+ annual revenue location, achieving top ranking
+- Reduced churn by 40% through innovative coaching programs and leadership development initiatives
+- Implemented operational improvements resulting in 26% increase in customer satisfaction scores
+- Managed talent lifecycle: recruited, trained, and developed partners with high internal promotion rate
+
+**Assistant Store Manager** | Starbucks | Kingston, ON | Jul 2018 - Jul 2019
+
+**Supervisor |** Starbucks | Kingston, ON | Sep 2016 - Jun 2018
+
+**EDUCATION**
+
+**Bachelor of Arts, Linguistics** | University of Ottawa | Ottawa, ON | May 2011
+
+**Diploma, Information Technology** | Information Technology Institute | Ottawa, ON | Jan 1999
+
+**CORE COMPETENCIES & TECHNICAL SKILLS**
+
+**Leadership & People Development** \- Team building & coaching | Performance management | Succession planning | Culture transformation
+
+**Strategic & Operational Excellence** \- Program development | Process optimization | Budget management | Data analysis & reporting
+
+**Stakeholder Engagement** \- Partnership development | Community outreach | Cross-functional collaboration | Executive communication
+
+**Technology & Digital Transformation** \- CRM Systems (Salesforce, Bloomerang) | API Integrations | SaaS Implementation | User Experience Design
+
+**Integration & Web** \- REST APIs | SaaS implementation | WordPress | Payment systems
+
+**Analytics & Reporting** \- Power BI | Google Analytics | Excel (advanced)
+
+**Productivity & Collaboration** \- Google Workspace | MS Office 365 | Slack | Monday.com
+
+**EXPANDED CAREER HISTORY**
+
+**Community Engagement Manager** | Habitat for Humanity KLR | Kingston, ON | Mar 2025 - Present
+
+- Spearhead community engagement strategies, expanding partnership network
 - Revolutionized volunteer program management: 300+ active volunteers with 95% retention rate through improved onboarding and tracking systems
-- Lead strategic initiatives including Kingston's first Tiny Home build project, securing $150K+ in community support
-- Drive data-informed decision making through comprehensive feedback analysis and reporting systems
-- Represent organization at 20+ external events quarterly, strengthening brand visibility and community relationships
+- Lead strategic fundraising initiatives securing $150K+ in community support
+- Represent organization at external events, strengthening brand visibility and community relationships
 
-### **Labour Community Services Manager**
-**United Way Kingston, Frontenac, Lennox & Addington** | Kingston, ON | Sep 2024 - Feb 2025
+**Labour Community Services Manager** | United Way KFLA | Kingston, ON | Sep 2024 - Feb 2025
 
-- Orchestrated union-United Way collaborations across 15+ labour organizations, increasing workplace engagement
+- Orchestrated collaborations across labour, increasing workplace engagement in The United Way
 - Developed and executed strategic plans for labour-focused campaigns
-- Designed and delivered training programs reaching 200+ union members
-- Championed labour inclusion in community investment decisions affecting $2M+ in annual funding allocation
-- Created sustainable fundraising frameworks generating 30% increase in unionized workplace engagement
+- Designed and delivered training programs reaching union members across 3 counties
+- Championed labour inclusion in community investment decisions
+- Created sustainable outreach frameworks extending the reach of the Kingston Labour Council
 
-### **Store Manager**
-**Starbucks Coffee Company** | Kingston, ON | Jul 2019 - Aug 2024
+**Owner / Operator |** Rosa’s Café | Bath, ON | Jun 2013 - Aug 2016
 
-- Led high-performing team of 25+ partners in $3M+ annual revenue location, achieving top 10% district ranking
-- Reduced employee turnover by 40% through innovative coaching programs and leadership development initiatives
-- Implemented operational improvements resulting in 15% increase in customer satisfaction scores
-- Managed full talent lifecycle: recruited, trained, and developed 50+ partners with 60% internal promotion rate
-- Resolved 100+ escalated customer issues monthly with 98% satisfaction rate through empathetic communication
-
-### **Customer Success Manager**
-**PureEdge Solutions (acquired by IBM)** | Victoria, BC | Jul 2000 - Dec 2000
-
-- Delivered implementation support and user training for 50+ enterprise clients adopting XML-based digital forms platform
-- Achieved 95% customer satisfaction score through proactive onboarding and continuous support programs
-- Conducted 100+ end-user training sessions ensuring smooth adoption and 90% first-call resolution rate
-- Collaborated with engineering teams to resolve complex client issues, reducing ticket resolution time by 30%
-- Developed customer success playbooks and best practices that increased product adoption by 40%
-
-### **Field Sales Engineer**
-**PureEdge Solutions (acquired by IBM)** | Remote | Jan 2001 - Aug 2003
-
-- Drove $5M+ in enterprise sales through technical demonstrations and solution architecture for Fortune 500 clients
-- Pioneered XML-based digital forms adoption across 30+ enterprise accounts, reducing paper processes by 80%
-- Delivered technical training to 100+ developers, achieving 90% self-sufficiency post-implementation
-- Influenced product roadmap through customer advocacy, contributing to 3 major feature releases
-
-### **Owner / Operator**
-**Rosa's Café** | Bath, ON | Jun 2013 - Aug 2016
-
-- Founded and scaled successful café business from concept to $400K annual revenue
-- Achieved 4.8/5 star rating and 80% repeat customer rate through exceptional service and community engagement
+- Founded and scaled successful seasonal café business from concept to $400K annual revenue
 - Managed all operations: P&L, vendor relations, inventory, staffing, marketing, and customer experience
-- Built strategic partnerships with 10+ local suppliers and businesses, strengthening community economic ecosystem
+- Built strategic partnerships with local suppliers and businesses, strengthening community economic ecosystem
 
----
+**Research Assistant |** Queen’s University | Kingston, ON | Jun 2011 - May 2013
 
-## 🎯 Core Competencies
+**Research Assistant |** University of Ottawa | Ottawa, ON | Nov 2007 - May 2011
 
-### Leadership & People Development
-✓ Team Building & Coaching | ✓ Performance Management | ✓ Succession Planning | ✓ Culture Transformation
+**Client Solutions Consultant |** Independent | Ottawa, ON | Aug 2003 - Oct 2007
 
-### Strategic & Operational Excellence  
-✓ Program Development | ✓ Process Optimization | ✓ Budget Management | ✓ Data Analysis & Reporting
+**Instructor |** Information Technology Institute | Vancouver, BC | Feb 1999 – Jun 2000
 
-### Stakeholder Engagement
-✓ Partnership Development | ✓ Community Outreach | ✓ Cross-functional Collaboration | ✓ Executive Communication
-
-### Technology & Digital Transformation
-✓ CRM Systems (Salesforce, Bloomerang) | ✓ API Integrations | ✓ SaaS Implementation | ✓ User Experience Design
-
----
-
-## 🛠 Technical Proficiencies
-
-**CRM & Data Management:** Salesforce | Better Impact | Bloomerang | HubSpot  
-**Integration & Cloud:** REST APIs | WordPress | Payment Systems | Microsoft Azure  
-**Analytics & Reporting:** Tableau | Power BI | Google Analytics | Excel Advanced  
-**Productivity:** Google Workspace | MS Office 365 | Slack | Asana | Monday.com
-
----
-
-## 🎓 Education
-
-**Bachelor of Arts, Linguistics**  
-University of Ottawa | Ottawa, ON | 2011
-
-**Diploma, Information Technology**  
-Information Technology Institute | Ottawa, ON | 1999
-
----
-
-## 📚 Additional Experience
-
-**Assistant Store Manager** | Starbucks | Kingston, ON | 2018 - 2019  
-**Shift Supervisor** | Starbucks | Kingston, ON | 2016 - 2018  
-**Research Assistant** | Queen's University | Kingston, ON | 2011 - 2013  
-**Research Assistant** | University of Ottawa | Ottawa, ON | 2007 - 2011  
-**Client Solutions Consultant** | Independent | Ottawa, ON | 2003 - 2007  
-**Instructor** | Information Technology Institute | Vancouver, BC | 1999 - 2000  
-**Analyst, Client Services** | Industry Canada | Ottawa, ON | 1997 - 1999
-
----
-
-## 🏆 Key Achievements
-
-- 🌟 Transformed volunteer engagement program, achieving 95% retention rate at Habitat for Humanity
-- 📈 Increased workplace giving by 25% through strategic labour-union partnerships at United Way
-- 🏅 Achieved top 10% district performance ranking as Starbucks Store Manager
-- 💼 Generated $5M+ in enterprise software sales at PureEdge Solutions
-- 🚀 Successfully launched and operated profitable small business for 3+ years
-
----
-
-*References available upon request*
+**Analyst, Client Services |** Industry Canada | Ottawa, ON | Jan 1997 – Jan 1999

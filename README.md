@@ -26,9 +26,9 @@ Dynamic leader with 20+ years driving customer success, community engagement, an
 ### **Labour Community Services Manager**
 **United Way Kingston, Frontenac, Lennox & Addington** | Kingston, ON | Sep 2024 - Feb 2025
 
-- Orchestrated union-United Way collaborations across 15+ labour organizations, increasing workplace giving by 25%
-- Developed and executed strategic plans with $500K+ budget oversight for labour-focused campaigns
-- Designed and delivered training programs reaching 200+ union members and United Way team members
+- Orchestrated union-United Way collaborations across 15+ labour organizations, increasing workplace engagement
+- Developed and executed strategic plans for labour-focused campaigns
+- Designed and delivered training programs reaching 200+ union members
 - Championed labour inclusion in community investment decisions affecting $2M+ in annual funding allocation
 - Created sustainable fundraising frameworks generating 30% increase in unionized workplace engagement
 

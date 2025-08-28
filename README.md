@@ -26,9 +26,9 @@ Dynamic leader with 20+ years driving customer success, community engagement, an
 - Implemented operational improvements resulting in 26% increase in customer satisfaction scores
 - Managed talent lifecycle: recruited, trained, and developed partners with high internal promotion rate
 
-**Assistant Store Manager** | Starbucks | Kingston, ON | Jul 2018 - Jul 2019
+**Assistant Store Manager** | Starbucks | Kingston, ON | Jul 2017 - Jun 2019
 
-**Supervisor |** Starbucks | Kingston, ON | Sep 2016 - Jun 2018
+**Supervisor |** Starbucks | Kingston, ON | Sep 2016 - Jun 2017
 
 **EDUCATION**
 
@@ -50,7 +50,7 @@ Dynamic leader with 20+ years driving customer success, community engagement, an
 
 **Analytics & Reporting** \- Power BI | Google Analytics | Excel (advanced)
 
-**Productivity & Collaboration** \- Google Workspace | MS Office 365 | Slack | Monday.com
+**Productivity & Collaboration** \- Google Workspace | MS Office 365 | Slack | Monday.com | GitHub
 
 **EXPANDED CAREER HISTORY**
 
@@ -79,7 +79,7 @@ Dynamic leader with 20+ years driving customer success, community engagement, an
 
 **Research Assistant |** University of Ottawa | Ottawa, ON | Nov 2007 - May 2011
 
-**Client Solutions Consultant |** Independent | Ottawa, ON | Aug 2003 - Oct 2007
+**Client Solutions Specialist |** Independent | Ottawa, ON | Aug 2003 - Oct 2007
 
 **Instructor |** Information Technology Institute | Vancouver, BC | Feb 1999 – Jun 2000
 
